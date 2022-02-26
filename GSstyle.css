@@ -1,0 +1,47 @@
+body{
+    font-family: 'Shizuru', cursive;
+    background-color: #54BAB9;
+}
+label{
+    font-weight: bold;
+    color: white;
+}
+input{
+    position: absolute;
+    left:110%;
+}
+header{
+    position: relative;
+    top:5%;
+    padding:1%;
+    font-size: 45px;
+    text-align: center;
+    color: #161853;
+    background-image: url("https://cdn.pixabay.com/photo/2021/01/29/10/55/back-to-school-5960645_960_720.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    position: absolute;
+    left:40%;
+    top:30%;
+    
+}
+button{
+    position: absolute;
+    top:65%;
+    left:45%;
+    border-color: transparent;
+    border-radius: 5px;
+    padding: 4px;
+}
+button:hover
+{
+    color: black;
+    background-color:lightsteelblue;
+}
+footer{
+    position: absolute;
+    top:95%;
+    color: white;
+}
